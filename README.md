@@ -1,7 +1,2 @@
-echo "# README.md" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/Simsoncrazy/README.md.git
-git push -u origin main
+Hi, my name is Simon and do you know how I can add emoji's to this description?
+ow that's easy haha 🔥
